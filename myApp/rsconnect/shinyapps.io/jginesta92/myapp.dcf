@@ -1,0 +1,10 @@
+name: myapp
+title:
+username:
+account: jginesta92
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 834292
+bundleId: 1982943
+url: https://jginesta92.shinyapps.io/myapp/
+when: 1554252002.60686
