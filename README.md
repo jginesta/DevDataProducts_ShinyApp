@@ -3,7 +3,7 @@ This was built as part of a deliverable for the course Developing Data Products 
 
 - The app developed for the first part of the assignment demo is avalilable at: https://jginesta92.shinyapps.io/myapp/
 
-- Source code for ui.R and server.R files are available on the GitHub repo: https://github.com/jginesta/DevDataProducts_ShinyApp/myApp
+- Source code for ui.R and server.R files are available on the GitHub repo: https://github.com/jginesta/DevDataProducts_ShinyApp/tree/master/myApp
 
 This Shiny App is providing tools to be able to analyze the different parameters of the ChickWeight dataset.
 
